@@ -11,6 +11,6 @@ const port  = process.env.PORT || 3000;
 const app = express();
 
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({extends : false});
+app.use(bodyParser.urlencoded({extends : false}));
 app.use(express.static(path.join(__dirname, 'public/')));
-app.set('view engine', pug)
+app.set('view engine', pug);
