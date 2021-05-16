@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/brokylabs/nodepay/issues"
   },
-  "homepage": "https://github.com/brokylabs/nodepay#readme"
+  "homepage": "https://github.com/brokylabs/nodepay#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9",
+    "pug": "^3.0.2",
+    "request": "^2.88.2"
+  }
 }
