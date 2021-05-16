@@ -1,0 +1,20 @@
+{
+  "name": "nodepay",
+  "version": "1.0.0",
+  "description": "NodeJS Payment Integration with Paystack | NIOMIC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brokylabs/nodepay.git"
+  },
+  "keywords": [],
+  "author": "brokylabs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brokylabs/nodepay/issues"
+  },
+  "homepage": "https://github.com/brokylabs/nodepay#readme"
+}
